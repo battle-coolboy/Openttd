@@ -216,4 +216,4 @@ OpenTTD is the full free version of the game with all features and updates inclu
 Ready to manage your transport empire? **Download OpenTTD for free today and enjoy endless hours of fun!**
 
 ---
-**Last updated:** 2026-11-06 23:54:12 UTC
+**Last updated:** 2026-11-07 04:01:44 UTC
